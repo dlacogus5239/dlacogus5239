@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3A4A51&fontColor=ffffff&ttextBg=f7f5f5&height=200&section=header&text=역지사지의%20개발자%20임채현%20입니다!&fontSize=40&fontAlignY=40&animation=fadeIn)
 
+  
+## 포트폴리오
+  [Notion](https://roan-detective-353.notion.site/e1c4540195d545bc9e48ee885b989dd7)
 
 
 ## 🔭기술스택!
@@ -50,15 +53,15 @@ Here are some ideas to get you started:
 
   <h3>독도 홍보 교육 게임 통합형 웹 서비스</h3> 
   
-  [모여봐요! 우리땅, 독도] (https://github.com/dokdo-guard/moyeora-dokdo)
+  [모여봐요! 우리땅, 독도](https://github.com/dokdo-guard/moyeora-dokdo)
   
   <h3>사용자 여행 성향 맞춤 여행지 추천 서비스</h3>
   
-  [여행이 체질] (https://github.com/dokdo-guard/moyeora-dokdo)
+  [여행이 체질](https://github.com/dokdo-guard/moyeora-dokdo)
   
   <h3>비대면 전자제품 화상 </h3> 
   
-  [SellerB] (https://github.com/dokdo-guard/moyeora-dokdo)
+  [SellerB](https://github.com/dokdo-guard/moyeora-dokdo)
 
 
 
