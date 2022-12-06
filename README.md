@@ -48,7 +48,22 @@ Here are some ideas to get you started:
 
 ## 👯Projects!
 
+  <h3>독도 홍보 교육 게임 통합형 웹 서비스</h3> 
+  
+  [모여봐요! 우리땅, 독도] (https://github.com/dokdo-guard/moyeora-dokdo)
+  
+  <h3>사용자 여행 성향 맞춤 여행지 추천 서비스</h3>
+  
+  [여행이 체질] (https://github.com/dokdo-guard/moyeora-dokdo)
+  
+  <h3>비대면 전자제품 화상 </h3> 
+  
+  [SellerB] (https://github.com/dokdo-guard/moyeora-dokdo)
 
+
+
+
+  
   
 
 
