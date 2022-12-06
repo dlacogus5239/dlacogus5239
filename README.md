@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3A4A51&fontColor=ffffff&ttextBg=f7f5f5&height=200&section=header&text=역지사지의%20개발자%20임채현%20입니다!&fontSize=40&fontAlignY=40&animation=fadeIn)
 
   
-## 포트폴리오
-  [Notion](https://roan-detective-353.notion.site/e1c4540195d545bc9e48ee885b989dd7)
+
+ # [포트폴리오](https://roan-detective-353.notion.site/e1c4540195d545bc9e48ee885b989dd7)
 
 
 ## 🔭기술스택!
