@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=역지사지의%20개발자%20임채현%20입니다!&fontSize=30)
 ## 안녕하세요! 
 ## 역지사지의 FrontEnd 개발자 "임채현" 입니다!
 
