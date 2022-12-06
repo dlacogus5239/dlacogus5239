@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=역지사지의%20개발자%20임채현%20입니다!&fontSize=30&fontColor=auto&fontSize=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=역지사지의%20개발자%20임채현%20입니다!&fontSize=30&fontColor=#fffff&fontSize=auto)
 ## 안녕하세요! 
 ## 역지사지의 FrontEnd 개발자 "임채현" 입니다!
 
