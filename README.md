@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3A4A51&fontColor=ffffff&ttextBg=f7f5f5&height=200&section=header&text=역지사지의%20개발자%20임채현%20입니다!&fontSize=40&fontAlignY=40&animation=fadeIn)
 
 
+
 ## 🔭기술스택!
+
+
 
 ### BackEnd
 
@@ -35,9 +40,13 @@ Here are some ideas to get you started:
 
 
 
+  
 ## 🤔Algorithm
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacogus5239)](https://solved.ac/dlacogus5239)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3A4A51&height=200&section=footer)
+  
+  
+  </div>
