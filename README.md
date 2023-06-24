@@ -57,11 +57,11 @@ Here are some ideas to get you started:
   
   <h3>사용자 여행 성향 맞춤 여행지 추천 서비스</h3>
   
-  [여행이 체질](https://github.com/dokdo-guard/moyeora-dokdo)
+  [여행이 체질](https://github.com/dlacogus5239/BeTravelic)
   
-  <h3>비대면 전자제품 화상 </h3> 
+  <h3>비대면 전자제품 화상 서비스</h3> 
   
-  [SellerB](https://github.com/dokdo-guard/moyeora-dokdo)
+  [SellerB](https://github.com/henginthere/Seller-B)
 
 
 
